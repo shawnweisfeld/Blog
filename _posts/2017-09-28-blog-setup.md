@@ -90,3 +90,9 @@ Finally, now you are ready to customize the look and feel of your blog. You can 
 ```bash
 sudo apt-get install zlib1g-dev
 ```
+
+- If you get this error 'Could not find XXXXXX in any of the sources' try running this command:
+
+```bash
+bundle install
+```
